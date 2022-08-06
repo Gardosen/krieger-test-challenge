@@ -4,8 +4,8 @@
   "description": "test challenge project",
   "main": "index.js",
   "scripts": {
-    "cy:silent": "npx cypress run --reporter=nyan --config-file cypress/config/qa.config.js; node cucumber-html-report.js",
-    "cy:editor": "npx cypress open --config-file cypress/config/qa.config.js; node cucumber-html-report.js"
+    "cy:silent": "npx cypress run --reporter=nyan --config-file cypress/config/test.config.js; node cucumber-html-report.js",
+    "cy:editor": "npx cypress open --config-file cypress/config/test.config.js; node cucumber-html-report.js"
   },
   "repository": {
     "type": "git",

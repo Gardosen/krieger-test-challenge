@@ -37,7 +37,7 @@ new test cases fast and consistent
 ├── cypress
 │ ├── config
 │ │ ├── dev.config.js
-│ │ └── qa.config.js
+│ │ └── test.config.js
 │ ├── cucumber-json
 │ ├── e2e
 │ │ ├── login.page.feature
@@ -108,16 +108,10 @@ npm install
 
 #### Run the test automation
 
-run in headles mode
-```bash
-npm cy:silent-dev
-npm cy:silent-qa
-```
-
-run in cypress browser mode
+run in cypress with the test config
 ````bash
-npm run cy:editor-dev
-npm run cy:editor-qa
+npm run cy:editor
+npm run cy:editor
 ````
 
 __more commands will follow__
