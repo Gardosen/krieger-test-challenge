@@ -1,0 +1,36 @@
+{
+  "login page": {
+    "tab title": "Sign in to w4k",
+    "login button": "Sign In",
+    "username label": "Username",
+    "password label": "Password",
+    "german selection": "Deutsch",
+    "english selection": "English",
+    "login page title": "Sign in to your account",
+    "account is blocked": "Account is disabled, contact your administrator.",
+    "wrong login credentials": "Invalid username or password."
+  },
+
+  "product search page":{
+    "search result amount": "<int1> of <int2> Search Results",
+    "article number": "Article Number",
+    "ean": "EAN",
+    "internal name": "Internal Name",
+    "order name": "Order Name",
+    "eksb": "Responsible purchase area",
+    "supplier": "Supplier",
+    "program": "Program",
+    "product configuration type": "Product Configuration",
+    "sales description": "Article Description",
+    "available from": "Available From:",
+    "weight in kilo": "Overall weight in kg",
+    "assembly completion level": "Assembly Completion Level",
+    "house data": "Haus",
+    "product collection": "Product collection",
+    "action": "Aktion"
+  },
+
+  "product details page": {
+
+  }
+}
